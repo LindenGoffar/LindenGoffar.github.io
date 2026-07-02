@@ -1,0 +1,13 @@
+title: Goffar.com
+description: Projects, demos, and experiments by Linden Goffar
+url: "https://goffar.com"
+theme: minima
+
+minima:
+  skin: classic
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
