@@ -1,10 +1,10 @@
 ---
 layout: page
-title: BiblePaths.NET
-permalink: /BiblePaths/
+title: BiblePaths.NET/PBE
+permalink: /PBE/
 ---
 
-## BiblePaths.NET
+## BiblePaths.NET/PBE
 
 **Live Site:** [BiblePaths.NET](https://biblepaths.net)
 
