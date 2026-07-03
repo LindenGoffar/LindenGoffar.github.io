@@ -1,14 +1,15 @@
 ---
 layout: page
-title: BiblePaths.NET
+title: PBE Quiz App
 permalink: /PBE/
 ---
 
 ## BiblePaths.NET
 
-**Live Site:** [BiblePaths.NET](https://biblepaths.net)
+**Live Site:** [BiblePaths.NET](https://biblepaths.net/PBE)
 
-BiblePaths.NET is an interactive tool for exploring the Bible as a connected graph of ideas, people, places, and passages. It lets you discover relationships and trace "paths" between any two points in scripture.
+powered by BiblePaths.Net
+The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams preparing for Pathfinder Bible Experience, for more information on this youth program see: [NADPBE](https://nadpbe.org/)
 
 ---
 
