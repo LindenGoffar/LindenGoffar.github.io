@@ -15,7 +15,7 @@ A collection of projects, demos, and experiments. Click any project below to lea
 
 ### 🗺️ BiblePaths.NET
 
-Bible Paths is a crowd sourced Bible study and devotional tool. Each Bible Path is a chain of Bible verses linked together to form a simple, self contained Bible study.
+Bible Paths is a full stack crowd sourced Bible study and devotional tool. Each Bible Path is a chain of Bible verses linked together to form a simple, self contained Bible study.
 
 [View Project →](BiblePaths/project.md)
 

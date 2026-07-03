@@ -4,41 +4,29 @@ title: PBE Quiz App
 permalink: /PBE/
 ---
 
-## BiblePaths.NET
+## PBE Quiz App
 
-**Live Site:** [BiblePaths.NET](https://biblepaths.net/PBE)
+**Live Site:** [BiblePaths.NET/PBE](https://biblepaths.net/PBE)
 
 powered by BiblePaths.Net
-The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams preparing for Pathfinder Bible Experience, for more information on this youth program see: [NADPBE](https://nadpbe.org/)
+The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams preparing for Pathfinder Bible Experience, for more information on this youth program see: https://nadpbe.org/
 
 ---
 
 ### Features
 
-- 🔗 **Interactive graph** — Visualize connections between books, chapters, people, and themes
-- 🔍 **Path finder** — Discover the shortest conceptual path between any two Bible entries
-- 📖 **Passage viewer** — Read referenced passages in context
-- 🏷️ **Tag & theme browsing** — Explore by topic, character, or location
+- 🔗 **Question Builder** — Users contribute questions grounded directly in the Bible Text
+- ❓ **Quiz Experience** — Quizzes are run in app with time keeping and score tracking
+- 📖 **Passage viewer** — Read referenced passages in context of a Question
+- 🏷️ **Quiz History Tracking** — Teams can track their improvement over time
 
 ---
 
 ### Screenshots
 
-*Images coming soon — check back after launch!*
-
-<!-- Once you add images to this folder, display them like this:
-![BiblePaths home screen](home-screen.png)
-![Graph view](graph-view.png)
-![Path finder](path-finder.png)
--->
-
----
-
-### About the Project
-
-BiblePaths.NET was built to make scripture exploration more intuitive and discovery-driven. Rather than searching for a specific verse, users can wander through connections and uncover passages they might never have found otherwise.
-
-**Tech stack:** *(add your stack here)*
+Once you add images to this folder, display them like this:
+![PBE home screen](PBEHome.png)
+![Question view](PBEQuestion.png)
 
 ---
 
