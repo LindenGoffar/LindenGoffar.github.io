@@ -17,14 +17,14 @@ A collection of projects, demos, and experiments. Click any project below to lea
 
 Bible Paths is a crowd sourced Bible study and devotional tool. Each Bible Path is a chain of Bible verses linked together to form a simple, self contained Bible study.
 
-[View Project →](BiblePaths/project.md)
+[View Project →](BiblePaths/project)
 
 ### 🗺️ BiblePaths.NET/PBE
 
 powered by BiblePaths.Net
 The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams preparing for Pathfinder Bible Experience, for more information on this youth program see: https://nadpbe.org/
 
-[View Project →](PBE/project.md)
+[View Project →](PBE/project)
 
 </div>
 

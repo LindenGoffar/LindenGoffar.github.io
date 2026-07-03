@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BiblePaths.NET
-permalink: /BiblePaths/
+permalink: /PBE/
 ---
 
 ## BiblePaths.NET
