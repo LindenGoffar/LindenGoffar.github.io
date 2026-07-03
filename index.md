@@ -11,7 +11,7 @@ A collection of projects, demos, and experiments. Click any project below to lea
 
 ## Projects
 
-<div class="project-grid">
+<div class="project-grid" markdown="1">
 
 ### 🗺️ BiblePaths.NET
 
