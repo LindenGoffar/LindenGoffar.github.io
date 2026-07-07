@@ -1,15 +1,17 @@
 ---
-layout: home
+layout: default
 title: Goffar.com
 ---
 
 ## Welcome to Goffar.com
 
-A collection of projects, demos, and experiments. Click any project below to learn more and try it out.
+Hi, I'm Linden Goffar — I have a long history in Enterprise class software more details [here](about.md) I've recently shifted my focus to helping smaller businesses and non-profits make better decisions through Business Intelligence, Data Analysis and automation. 
+
+Below I've compiled some of the personal and smaller scale projects that I've worked on over the years. Please feel free to check these out here, if you'd like to understand more of my professional background please see my [Linked In Profile](https://www.linkedin.com/in/linden-goffar/).
 
 ---
 
-## Projects
+## Highlighted Projects
 
 <div class="project-grid" markdown="1">
 
