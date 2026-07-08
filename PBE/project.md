@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: PBE Quiz App
 permalink: /PBE/
 ---
