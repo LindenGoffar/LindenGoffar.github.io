@@ -24,7 +24,6 @@ The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams prep
 
 ### Screenshots
 
-Once you add images to this folder, display them like this:
 ![PBE home screen](PBEHome.png)
 ![Question view](PBEQuestion.png)
 

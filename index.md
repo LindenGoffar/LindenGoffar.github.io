@@ -21,12 +21,18 @@ Bible Paths is a full stack crowd sourced Bible study and devotional tool. Each 
 
 [View Project →](BiblePaths/project.md)
 
-### 🗺️ BiblePaths.NET/PBE
+### ❔ BiblePaths.NET/PBE
 
 powered by BiblePaths.Net
 The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams preparing for Pathfinder Bible Experience, for more information on this youth program see: https://nadpbe.org/
 
 [View Project →](PBE/project.md)
+
+### 🚸 VBS Check-In/Out
+
+Simple App for checking children in/out of a Vacation Bible School program each night. Backed by a series of SharePoint Online Lists this easily customizable, responsive application can be used year after year. 
+
+[View Project →](VBS-CheckIn/project.md)
 
 </div>
 
