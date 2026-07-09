@@ -13,10 +13,10 @@ Bible Paths is a full stack crowd sourced Bible study and devotional tool. Each 
 BiblePaths.NET was built to make scripture exploration more intuitive and discovery-driven. Rather than searching for a specific verse, users can wander through connections and uncover passages they might never have found otherwise.
 
 **Tech stack:** 
-- Azure hosted ASP.Net Web App with a mix of Razor and Blazor Pages
-- API layer for automation
-- Google and Microsoft based Authentication
-- SQL Database
+- Azure hosted ASP.Net Web App with a mix of Razor and Blazor pages
+- API layer for automation and management
+- Google and Microsoft based "social" authentication
+- SQL Database fronted by Entity Framework
 
 ---
 
@@ -34,7 +34,6 @@ BiblePaths.NET was built to make scripture exploration more intuitive and discov
 ![BiblePaths Home](HomePage001.png)
 ![Path Builder](FollowPath.png)
 ![Follow a Path](FollowPath.png)
-
 
 ---
 
