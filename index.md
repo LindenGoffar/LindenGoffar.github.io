@@ -34,6 +34,13 @@ Simple Power App for checking children in/out of a Vacation Bible School program
 
 [View Project →](VBS-CheckIn/project.md)
 
+### 📈 PathStats BI
+
+powered by BiblePaths.Net
+PathStats BI measures the BiblePaths app against it's Key Performance Indicators. The primary objective of BiblePaths is to encourage Bible Study success is measured by looking across both Read Rate Growth as well as contribution rates, i.e. how many paths are being published/updated over time as the later tends to contribute to the former.
+
+[View Project →](PathStats-BI/project.md)
+
 </div>
 
 ---
