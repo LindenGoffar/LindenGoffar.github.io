@@ -7,7 +7,7 @@ title: Goffar.com
 
 Hi, I'm Linden Goffar — I have a long history in Enterprise class software more details [here](about.md) I've recently shifted my focus to helping smaller businesses and non-profits make better decisions through Business Intelligence, Data Analysis and automation. 
 
-Below I've compiled some of the personal and smaller scale projects that I've worked on over the years. Please feel free to check these out here, if you'd like to understand more of my professional background please see my [Linked In Profile](https://www.linkedin.com/in/linden-goffar/).
+Below I've compiled some of the personal and smaller scale projects that I've worked on over the years. More about my professional background [here](https://www.linkedin.com/in/linden-goffar/).
 
 ---
 
@@ -30,7 +30,7 @@ The Pathfinder Bible Experience (PBE) quiz app is designed for use by teams prep
 
 ### 🚸 VBS Check-In/Out
 
-Simple App for checking children in/out of a Vacation Bible School program each night. Backed by a series of SharePoint Online Lists this easily customizable, responsive application can be used year after year. 
+Simple Power App for checking children in/out of a Vacation Bible School program each night. Backed by a series of SharePoint Online Lists this easily customizable, responsive application can be used year after year. 
 
 [View Project →](VBS-CheckIn/project.md)
 
