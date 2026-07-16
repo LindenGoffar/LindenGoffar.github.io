@@ -45,9 +45,9 @@ Simple Power App for checking children in/out of a Vacation Bible School program
 
 ### 📈 VBS BI
 
-Power BI report to track attendance trends and ensure capacity constraints are being met through the duration of an event. 
+Power BI report to track attendance trends and ensure capacity constraints are being met through the duration of an event. Backed by the [VBS Check-In/Out](VBS-CheckIn/project.md) App
 
-[View Project →](PathStats-BI/project.md)
+[View Project →](VBS-BI/project.md)
 
 </div>
 
