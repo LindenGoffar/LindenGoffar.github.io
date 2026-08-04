@@ -3,6 +3,8 @@ layout: default
 title: Goffar.com
 ---
 
+![Goffar.com banner](Banner-001.png)
+
 ## Welcome to Goffar.com
 
 Hi, My name is Linden Goffar, I am an experienced technical leader, with a strong background in enterprise class software. I recently retired from a career in "Big Tech" but this is not where I intend to let the story end. I have shifted my focus instead to helping smaller businesses and non-profits make better decisions through Business Intelligence, Data Analysis and automation. You can learn more about my background in technology on our [About page](about.md), or through [LinkedIn](https://www.linkedin.com/in/linden-goffar/).
