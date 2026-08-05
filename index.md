@@ -3,7 +3,7 @@ layout: default
 title: Goffar.com
 ---
 
-![Goffar.com banner](Banner-001.png)
+<img src="Banner-001.png" alt="Goffar.com banner" class="banner-image">
 
 ## Welcome to Goffar.com
 
