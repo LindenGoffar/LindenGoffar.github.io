@@ -19,7 +19,8 @@ I will always be a software guy at heart but at this stage in my life I intend t
 
 <div class="project-grid" markdown="1">
 
-### [BiblePaths](BiblePaths/FollowPath-Thumb.png) BiblePaths.NET
+[BiblePaths](BiblePaths/FollowPath-Thumb.png) 
+### BiblePaths.NET
 
 Bible Paths is a full stack web app, for authoring and discovering crowd sourced Bible studies. Each Bible Path is a chain of Bible verses linked together to form a simple, self contained Bible study.
 
