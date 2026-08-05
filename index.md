@@ -7,9 +7,9 @@ title: Goffar.com
 
 Hi, My name is **Linden Goffar**, I am an experienced technical leader with a strong background in enterprise class software. I am semi-retired from a career in "Big Tech" and always looking for something new. I am passionate about helping businesses and non-profits make better decisions through **Business Intelligence, Data Analysis** and **Automation**. You can learn more about my background in technology at our [About page](about.md), or through my[LinkedIn](https://www.linkedin.com/in/linden-goffar/) profile.
 
-Here you will find a selection of my personal and smaller scale projects. This is just a small sampling of projects intended to give you an idea of my broad experience and skill set. 
+Here you will find a sampling of my personal and smaller scale projects intended to give you an idea of my experience and skill set. 
 
-I will always be a software guy at heart but at this stage in my life I intend to expand my work to include Data Analytics, Business Intelligence, Integration of Artificaial Intelligence (AI), and maybe some 3d Printing, CNC and wood working to keep things really interesting. 
+I will always be a Software, AI, BI, Analytics guy at heart but I will also  dabble in 3D Printing, CNC and wood working to keep things really interesting. 
 
 ---
 
